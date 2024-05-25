@@ -59,7 +59,7 @@
   
  ✌️ &emsp; Hello! I'm Navindu Premaratne, a 19-year-old second-year undergraduate at Staffordshire University, on the path to earning a BSc in Computer Science (Software Engineering).
 I'm driven by a profound passion for crafting web and mobile apps, with a particular interest in DevOps, Artificial Intelligence (AI), and Machine Learning (ML). Beyond tech, I've been a dedicated aviation enthusiast since childhood. <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features in Emerging Technologies<br/><br/>
+ ❤️ &emsp; Love to write code and learn new features in Emerging Technologies<br/><br/>
  📧 &emsp; Feel free to email me: navindunimnal@gmail.com<br/><br/>
 
 </p>
